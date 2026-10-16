@@ -46,3 +46,25 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Platforms not used in this lab
+android/
+ios/
+linux/
+macos/
+windows/
+
+# IDE and system files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
